@@ -4,5 +4,6 @@ node_modules/
 .vscode/
 .yarn/
 .yarnrc.yml
+__pycache__/
 
 
